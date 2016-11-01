@@ -6,7 +6,7 @@ This challenge tests your use of data structures, libraries, algothrims and most
 Great question to practice for interviews.
 
 EXPLANATION:
-So my answer trys to make searching for MPGs within a range as quick as possible. Worst case is n, n being all the entries and each entry has a unique date while searching for all dates. Best case is O(1) or log(n) lookup, when searching for one date using some optimizations I'll explain later.
+So my answer trys to make searching for MPGs within a range as quick as possible. Worst case is n, n being all the entries and each entry has a unique date while searching for all dates. Best case is O(1) or Olog(n) lookup, when searching for one date using some optimizations I'll explain later.
 Mainly designed a hash table of persons, with each person having another hash table of cars while each car has a BST ordered by dates that hold data to the miles and gallons used/filled on that date. Using some optimization and how the question is worded, the program will sum up the miles and gallons on that particular date instead of making multiple dates with other data. So we end up with one data point for each date in the BST.
 Designing the classes this way will keep maintainability easy, as of October 2016, is the best approach I can come up with. I still need more improvements but this is what I have so far.
 
