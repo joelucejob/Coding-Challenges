@@ -1,40 +1,6 @@
-========================================================================
-    CONSOLE APPLICATION : SIGCodingInterview Project Overview
-========================================================================
-
-AppWizard has created this SIGCodingInterview application for you.
-
-This file contains a summary of what you will find in each of the files that
-make up your SIGCodingInterview application.
-
-
-SIGCodingInterview.vcxproj
-    This is the main project file for VC++ projects generated using an Application Wizard.
-    It contains information about the version of Visual C++ that generated the file, and
-    information about the platforms, configurations, and project features selected with the
-    Application Wizard.
-
-SIGCodingInterview.vcxproj.filters
-    This is the filters file for VC++ projects generated using an Application Wizard. 
-    It contains information about the association between the files in your project 
-    and the filters. This association is used in the IDE to show grouping of files with
-    similar extensions under a specific node (for e.g. ".cpp" files are associated with the
-    "Source Files" filter).
-
-SIGCodingInterview.cpp
-    This is the main application source file.
-
-/////////////////////////////////////////////////////////////////////////////
-Other standard files:
-
-StdAfx.h, StdAfx.cpp
-    These files are used to build a precompiled header (PCH) file
-    named SIGCodingInterview.pch and a precompiled types file named StdAfx.obj.
-
-/////////////////////////////////////////////////////////////////////////////
-Other notes:
-
-AppWizard uses "TODO:" comments to indicate parts of the source code you
-should add to or customize.
-
-/////////////////////////////////////////////////////////////////////////////
+Coding challenge I did on SIG's on-site interviews. 
+I kinda botched the interview, even though I got a very optimized solution, I was too stressed in creating clean and maintainable code.
+I was mainly struggling with not knowing that STL maps had an lower and upper bound method and wasn't using a binary tree to its full advantage. Instead I choose to use a binary search on an array which was a lot hard to do during an interview.
+I went back and attempted it a second time after with an entirely different approach I had during the interview after thinking about a better implementation.
+This challenge tests your use of data structures, libraries, algothrims and most importantly your object oriented approach.
+Great question to practice for interviews.
