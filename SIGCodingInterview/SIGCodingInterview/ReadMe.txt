@@ -1,3 +1,9 @@
+QUESTION: 
+Given file with entries consisting of person name, car brand, miles driven, gallons filled, date of fill.
+Example : Mike, Ford, 83, 4, 20160415
+Create a method to output a list of objects of miles per gallon per car when for a person name, a start date, and end date.
+Miles per gallon is total miles driven and gallons filled for a particular car brand.
+
 Coding challenge I did on SIG's on-site interviews. 
 I kinda botched the interview, even though I got a very optimized solution, I was too stressed in creating clean and maintainable code.
 I was mainly struggling with not knowing that STL maps had lower and upper bound methods and wasn't using a binary tree to its full advantage. Instead I choose to use a binary search on an array which was a lot more work than what the question is asking.
