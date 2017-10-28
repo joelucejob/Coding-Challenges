@@ -1,0 +1,66 @@
+http://data-interview.enigmalabs.org/companies
+http://data-interview.enigmalabs.org/companies/
+http://data-interview.enigmalabs.org/companies/?page=4
+http://data-interview.enigmalabs.org/companies/?page=6
+http://data-interview.enigmalabs.org/companies/?page=7
+http://data-interview.enigmalabs.org/companies/?page=8
+http://data-interview.enigmalabs.org/companies/Abbott, Gerlach and Price
+http://data-interview.enigmalabs.org/companies/Bahringer-Schroeder
+http://data-interview.enigmalabs.org/companies/Bartoletti Group
+http://data-interview.enigmalabs.org/companies/Beahan Ltd
+http://data-interview.enigmalabs.org/companies/Bednar-Donnelly
+http://data-interview.enigmalabs.org/companies/Beier, Welch and Rippin
+http://data-interview.enigmalabs.org/companies/Brakus Group
+http://data-interview.enigmalabs.org/companies/Casper-Sawayn
+http://data-interview.enigmalabs.org/companies/Douglas, Walsh and Luettgen
+http://data-interview.enigmalabs.org/companies/Emmerich, Cartwright and Larkin
+http://data-interview.enigmalabs.org/companies/Ernser-Tillman
+http://data-interview.enigmalabs.org/companies/Feest PLC
+http://data-interview.enigmalabs.org/companies/Friesen-Johnston
+http://data-interview.enigmalabs.org/companies/Hagenes, Harvey and Lockman
+http://data-interview.enigmalabs.org/companies/Hahn, Botsford and Brown
+http://data-interview.enigmalabs.org/companies/Hane, Wilkinson and Little
+http://data-interview.enigmalabs.org/companies/Hansen-Bartell
+http://data-interview.enigmalabs.org/companies/Hegmann-Marvin
+http://data-interview.enigmalabs.org/companies/Hermann-Hackett
+http://data-interview.enigmalabs.org/companies/Hilpert Group
+http://data-interview.enigmalabs.org/companies/Homenick, Christiansen and Murray
+http://data-interview.enigmalabs.org/companies/Jenkins-Christiansen
+http://data-interview.enigmalabs.org/companies/Kuhic Inc
+http://data-interview.enigmalabs.org/companies/Kulas, White and Weimann
+http://data-interview.enigmalabs.org/companies/Ledner-Bernier
+http://data-interview.enigmalabs.org/companies/Ledner-Hessel
+http://data-interview.enigmalabs.org/companies/Leffler Inc
+http://data-interview.enigmalabs.org/companies/Macejkovic Ltd
+http://data-interview.enigmalabs.org/companies/Macejkovic, McGlynn and Skiles
+http://data-interview.enigmalabs.org/companies/Mohr, Grady and Bahringer
+http://data-interview.enigmalabs.org/companies/Mueller-Bergnaum
+http://data-interview.enigmalabs.org/companies/Nitzsche Inc
+http://data-interview.enigmalabs.org/companies/O'Keefe Ltd
+http://data-interview.enigmalabs.org/companies/Ortiz, Dickinson and Cruickshank
+http://data-interview.enigmalabs.org/companies/Ortiz, Rohan and Gerhold
+http://data-interview.enigmalabs.org/companies/Ortiz-O'Keefe
+http://data-interview.enigmalabs.org/companies/Osinski, Hermiston and Marvin
+http://data-interview.enigmalabs.org/companies/Paucek-Bernier
+http://data-interview.enigmalabs.org/companies/Pollich LLC
+http://data-interview.enigmalabs.org/companies/Raynor, Weimann and Konopelski
+http://data-interview.enigmalabs.org/companies/Rippin Inc
+http://data-interview.enigmalabs.org/companies/Rohan Group
+http://data-interview.enigmalabs.org/companies/Ryan and Sons
+http://data-interview.enigmalabs.org/companies/Ryan-O'Connell
+http://data-interview.enigmalabs.org/companies/Schamberger and Sons
+http://data-interview.enigmalabs.org/companies/Schimmel, Bruen and Schamberger
+http://data-interview.enigmalabs.org/companies/Schmidt and Sons
+http://data-interview.enigmalabs.org/companies/Schoen LLC
+http://data-interview.enigmalabs.org/companies/Schowalter-Cole
+http://data-interview.enigmalabs.org/companies/Stamm, McDermott and O'Keefe
+http://data-interview.enigmalabs.org/companies/Stehr, Beahan and Spencer
+http://data-interview.enigmalabs.org/companies/Steuber-Wisoky
+http://data-interview.enigmalabs.org/companies/Stroman, Dare and Stokes
+http://data-interview.enigmalabs.org/companies/Torphy-Larkin
+http://data-interview.enigmalabs.org/companies/Towne, Metz and Hilll
+http://data-interview.enigmalabs.org/companies/VonRueden-Durgan
+http://data-interview.enigmalabs.org/companies/Waters-Kertzmann
+http://data-interview.enigmalabs.org/companies/West, Reichel and Keebler
+http://data-interview.enigmalabs.org/companies/White, Lowe and Predovic
+http://data-interview.enigmalabs.org/companies/Wisoky-Keebler
